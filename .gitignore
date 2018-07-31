@@ -1,2 +1,5 @@
 # python virtual environment
 env/
+
+# Jupyter lab IPYNB checkpoints
+.ipynb_checkpoints
