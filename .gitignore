@@ -3,3 +3,6 @@ env/
 
 # Jupyter lab IPYNB checkpoints
 .ipynb_checkpoints
+
+# config
+config_local.yaml
